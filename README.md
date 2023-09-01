@@ -3,7 +3,8 @@
 </div>
 
 <div id="header" align="center">
+  <br>
   https://www.linkedin.com/in/elliotmsims/ :cowboy_hat_face:
-
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotmsims)](https://github.com/anuraghazra/github-readme-stats)
 </div>
